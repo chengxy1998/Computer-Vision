@@ -1,0 +1,11 @@
+{
+    "bus": 1 ,
+  "bicycle": 2 ,
+  "car": 3 ,
+  "motorcycle": 4 ,
+  "person": 5 ,
+  "rider": 6 ,
+  "train": 7 ,
+  "truck": 8
+
+}
